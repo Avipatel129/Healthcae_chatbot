@@ -1,0 +1,33 @@
+
+.input_field_help{
+    width: 30%;
+    border: rgb(0, 0, 0) 1px solid;
+}
+
+.form_help{
+    border: green 2px solid;
+    /* background-color: rgb(143, 211, 211); */
+    width: 50%;
+    /* margin-left: 200px;
+    margin-top: 50px; */
+}
+
+.help_send{
+    margin-top: 9px;
+    border: 1px solid rgb(61, 139, 112);
+    background-color:rgb(101, 187, 189);
+    width: 30%;
+}
+
+.form_hospital{
+    border: green 2px solid;
+    padding: 40px;
+
+}
+
+.submit_hos{
+    margin-top: 9px;
+    width: 50%;
+    border: 1px solid rgb(61, 139, 112);
+    background-color:rgb(101, 187, 189);
+}
