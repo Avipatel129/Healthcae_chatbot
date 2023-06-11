@@ -9,7 +9,7 @@ class Help extends Component {
 
     sendEmail=(e)=>{
         e.preventDefault()
-        emailjs.sendForm("service_fpajiwa", "template_hfbhq52", this.form.current, "PwYeaRBQG-u92W9Ek")
+        emailjs.sendForm()
         .then((result) =>{
             console.log(result.text)
             alert("Email Sent Sucessful")
